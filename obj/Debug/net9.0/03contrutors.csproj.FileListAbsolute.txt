@@ -1,0 +1,14 @@
+C:\POO\03contrutors\bin\Debug\net9.0\03contrutors.exe
+C:\POO\03contrutors\bin\Debug\net9.0\03contrutors.deps.json
+C:\POO\03contrutors\bin\Debug\net9.0\03contrutors.runtimeconfig.json
+C:\POO\03contrutors\bin\Debug\net9.0\03contrutors.dll
+C:\POO\03contrutors\bin\Debug\net9.0\03contrutors.pdb
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.AssemblyInfoInputs.cache
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.AssemblyInfo.cs
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.csproj.CoreCompileInputs.cache
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.dll
+C:\POO\03contrutors\obj\Debug\net9.0\refint\03contrutors.dll
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.pdb
+C:\POO\03contrutors\obj\Debug\net9.0\03contrutors.genruntimeconfig.cache
+C:\POO\03contrutors\obj\Debug\net9.0\ref\03contrutors.dll
